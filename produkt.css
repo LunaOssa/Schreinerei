@@ -1,0 +1,26 @@
+body { background-color: #F1F1F1; }
+h1 { font-family: Arial; padding: 30px 0px 0px 30px; color: #4A544A; }
+a { font-family: Arial; color: white; text-decoration: none; padding: 20px; font-size: 20px; }
+p { font-family: Arial; padding: 0px 0px 0px 30px; color: #4A544A; }
+img { padding: 0px 0px 30px 30px; }
+ul { font-family: Arial; padding: 0px 0px 10px 20px; }
+
+.header { background-color: #4A544A; padding: 20px; text-align: center; }
+
+#link1 { font-family: Arial; padding: 30px; margin: 120px; color: #4A544A; }
+
+.container { display: flex; justify-content: flex-start; }
+#tit1 { font-family: Arial; padding: 30px; margin: 80px 120px 0px 120px; color: #4A544A; }
+#text1 { font-family: Arial; padding: 30px; margin: 0px 120px 120px 120px; color: #4A544A; }
+
+.container2 { display: flex; justify-content: flex-start; }
+#tit2 { font-family: Arial; padding: 30px; margin: 80px 120px 0px 120px; color: #4A544A; }
+#text2 { font-family: Arial; padding: 30px; margin: 0px 120px 120px 120px; color: #4A544A; }
+
+.container3 { display: flex; justify-content: flex-start; }
+#tit3 { font-family: Arial; padding: 30px; margin: 80px 120px 0px 120px; color: #4A544A; }
+#text3 { font-family: Arial; padding: 30px; margin: 0px 120px 120px 120px; color: #4A544A; }
+
+.container4 { display: flex; justify-content: flex-start; }
+#tit4 { font-family: Arial; padding: 30px; margin: 80px 120px 0px 120px; color: #4A544A; }
+#text4 { font-family: Arial; padding: 30px; margin: 0px 120px 120px 120px; color: #4A544A; }
