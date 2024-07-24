@@ -1,0 +1,11 @@
+body { background-color: #F1F1F1; }
+h1 { font-family: Arial; padding: 20px; color: #4A544A; }
+h2 { font-family: Arial; padding: 0px 0px 0px 20px; }
+p { font-family: Arial; padding: 5px 0px 100px 20px; }
+a { font-family: Arial; color: white; text-decoration: none; padding: 20px; font-size: 20px; }
+
+.header { background-color: #4A544A; padding: 20px; text-align: center; }
+
+.container { display: flex; justify-content: flex-start; }
+#tit1 { font-family: Arial; padding: 30px; margin: 80px 120px 0px 120px; color: #4A544A; }
+#text1 { font-family: Arial; padding: 30px; margin: 0px 120px 120px 120px; color: #4A544A; }
